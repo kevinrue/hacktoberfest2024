@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "By contributing to this project, you agree to abide by the terms of the Project-wide Code of Conduct statement for Bioconductor."
+  },
+  {
+    "objectID": "about.html#code-of-conduct",
+    "href": "about.html#code-of-conduct",
+    "title": "About",
+    "section": "",
+    "text": "By contributing to this project, you agree to abide by the terms of the Project-wide Code of Conduct statement for Bioconductor."
+  },
+  {
+    "objectID": "about.html#contributions",
+    "href": "about.html#contributions",
+    "title": "About",
+    "section": "Contributions",
+    "text": "Contributions\nThe source files for this website are publicly available in this GitHub repository.\nContributors are welcome to submit pull requests from forks or contact maintainers to gain write access to the repository."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bioconductor @ Hacktoberfest 2024",
+    "section": "",
+    "text": "This website lists Bioconductor community projects participating in Hacktoberfest 2024."
+  }
+]
