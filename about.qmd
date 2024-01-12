@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+## Code of Conduct
+
+By contributing to this project, you agree to abide by the terms of the [Project-wide Code of Conduct statement for Bioconductor][bioconductor-coc].
+
+## Contributions
+
+The source files for this website are publicly available in this [GitHub repository][bioconductor-hacktoberfest2024].
+
+Contributors are welcome to submit pull requests from forks or contact maintainers to gain write access to the repository.
+
+[bioconductor-hacktoberfest2024]: https://github.com/kevinrue/hacktoberfest2024
+[bioconductor-coc]: https://www.bioconductor.org/about/code-of-conduct/

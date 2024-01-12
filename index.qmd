@@ -1,0 +1,8 @@
+---
+title: "Bioconductor @ Hacktoberfest 2024"
+---
+
+This website lists [Bioconductor][bioconductor-org] community projects participating in [Hacktoberfest 2024][hacktoberfest-com].
+
+[bioconductor-org]: https://bioconductor.org/
+[hacktoberfest-com]: https://hacktoberfest.com
